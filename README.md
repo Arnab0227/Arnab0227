@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, NextJs**
 
-- 👨‍💻 All of my projects are available at [example@emample.com](example@emample.com)
+- 👨‍💻 All of my projects are available at [[example@emample.com](https://hashnode.com/@Arnab0227)]
 
 - 💬 Ask me about **React, Redux & JavaScript**
 
